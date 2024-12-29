@@ -1,7 +1,3 @@
-# Portfolio
-#### https://github.com/SiarheiKhrapach/FrontendBlok-Module01-Burger
-#### https://github.com/SiarheiKhrapach/Module03
-#### https://github.com/SiarheiKhrapach/module03-portfolio
 ### 🌐 Socials:
 # 💫 About Me:
 
